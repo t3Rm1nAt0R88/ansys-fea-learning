@@ -30,7 +30,7 @@ Study the structural response of a truss subjected to external loading and under
 
 ---
 
-## Equivalent Stress (Von Mises)
+## Stresses
 
 ![Equivalent Stress](model_images/Stress.png)
 

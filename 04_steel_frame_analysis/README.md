@@ -30,7 +30,7 @@ Study the structural behavior of a steel frame subjected to external loading and
 
 ---
 
-## Equivalent Stress (Von Mises)
+## Stresses
 
 ![Equivalent Stress](model_analysis/Stress.png)
 
