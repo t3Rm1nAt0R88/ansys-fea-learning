@@ -32,7 +32,7 @@ Study the behavior of beam elements under axial and bending loads using 1D beam 
 
 ---
 
-## Equivalent Stress (Von Mises)
+## Stresses
 
 ![Equivalent Stress](Axial%20Loading/model_images/Stress.png)
 
