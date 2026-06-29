@@ -1,28 +1,57 @@
-# Truss Analysis
+# Truss Analysis — Linear Static Structural Analysis
 
-Structural analysis of a truss using truss elements.
+## Objective
 
-## Learning Outcomes
+Study the structural response of a truss subjected to external loading and understand load transfer through axial members using truss elements in ANSYS Workbench.
 
-- Force transfer through members
-- Axial stress in truss members
-- Structural deformation
-- Boundary condition application
+---
 
-## Results
-
-### Geometry
+## Geometry
 
 ![Geometry](model_images/Geometry.png)
 
-### Boundary Conditions
+---
+
+## Boundary Conditions
 
 ![Boundary Conditions](model_images/Boundary_conditions.png)
 
-### Stress Distribution
+---
 
-![Stress](model_images/Stress.png)
+## Mesh
 
-### Deformation
+![Mesh](model_images/Mesh.png)
 
-![Deformation](model_images/Deformation.png)
+---
+
+## Total Deformation
+
+![Total Deformation](model_images/Deformation.png)
+
+---
+
+## Equivalent Stress (Von Mises)
+
+![Equivalent Stress](model_images/Stress.png)
+
+---
+
+## Learning Outcomes
+
+* Introduction to truss elements in finite element analysis.
+* Understanding load transfer through axial members.
+* Application of structural supports and loading conditions.
+* Interpretation of deformation and stress contours.
+* Understanding the behavior of pin-jointed structures.
+
+---
+
+## Software
+
+* ANSYS Workbench
+* DesignModeler
+
+## Analysis Type
+
+* Linear Static Structural Analysis
+* Truss Element Analysis
